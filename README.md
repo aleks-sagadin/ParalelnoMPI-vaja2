@@ -1,0 +1,1 @@
+# ParalelnoMPI-vaja2
